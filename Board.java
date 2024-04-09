@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 
 
@@ -61,7 +62,7 @@ public class Board {
             System.out.print("Enter ship starting col: ");
             int col = in.nextInt();
             in.nextLine();
-            game.fogofWar(type, length, isVertical, row, col)g;
+            game.fogofWar(type, length, isVertical, row, col);
             // call fogofWar(type, length, isVertical, row, col);
             System.out.print(game);
         }
