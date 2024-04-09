@@ -1,3 +1,4 @@
+package Lab9;
 
 import java.util.Scanner;
 
